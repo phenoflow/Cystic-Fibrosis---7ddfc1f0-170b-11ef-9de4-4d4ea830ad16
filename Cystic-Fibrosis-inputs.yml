@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/cystic-fibrosis---primary.py
+inputModule3:
+  class: File
+  path: python/cystic-fibrosis-meconium---primary.py
+inputModule4:
+  class: File
+  path: python/cystic-fibrosis-related---primary.py
+inputModule5:
+  class: File
+  path: python/fibrocystic-cystic-fibrosis---primary.py
+inputModule6:
+  class: File
+  path: python/intestinal-cystic-fibrosis---primary.py
+inputModule7:
+  class: File
+  path: python/cystic-fibrosis-mucoviscidosis---primary.py
+inputModule8:
+  class: File
+  path: python/cystic-fibrosis-manifestation---primary.py
+inputModule9:
+  class: File
+  path: python/fibrosis---primary.py
+inputModule10:
+  class: File
+  path: python/cystic-fibrosis-history---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
